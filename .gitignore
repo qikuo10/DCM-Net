@@ -1,0 +1,10 @@
+__checkpoint__/
+__pycache__/
+*.pyc
+*.pth
+*.pckl
+*.log
+*_predictions.csv
+events.out.tfevents.*
+.DS_Store
+Thumbs.db
